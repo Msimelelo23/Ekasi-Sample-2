@@ -451,12 +451,12 @@ h6 {
   border-radius: 50px;
   transition: 0.5s;
   margin: 10px;
-  border: 2px solid #8fc04e;
+  border: 2px solid red;
   color: #fff;
 }
 
 #hero .btn-get-started:hover {
-  background: #8fc04e;
+  background: red;
 }
 
 @media (min-width: 1024px) {
@@ -1742,7 +1742,7 @@ section {
 }
 
 #footer .footer-bottom {
-  border-top: 1px solid #282828;
+  border-top: 1px solid #fff;
   z-index: 2;
   position: relative;
   padding-top: 40px;
